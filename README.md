@@ -1,1 +1,1 @@
-# Email sending application using spring boot and angular + sendgrid
+## Email sending application using spring boot and angular + sendgrid
