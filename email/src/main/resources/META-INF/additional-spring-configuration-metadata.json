@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "sendgrid.key",
+    "type": "java.lang.String",
+    "description": "A description for 'sendgrid.key'"
+  },
+  {
+    "name": "sendgrid.email",
+    "type": "java.lang.String",
+    "description": "A description for 'sendgrid.email'"
+  }
+]}
